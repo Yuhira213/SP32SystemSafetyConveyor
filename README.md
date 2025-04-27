@@ -1,5 +1,5 @@
 ![Pemrograman Kontroller](https://github.com/user-attachments/assets/796ec06f-dec0-434b-bbf2-f1547aebe82d)
-# “Sistem Safety Conveyor Packaging Minuman Botol Berbasis Sensor Photoelectric dan STM32F446RE dengan Fitur Deteksi Obstacle dan Penghentian Otomatis"
+# “Sistem Safety Conveyor Packaging Botol dengan Deteksi Obstacle dan Validasi Berat Otomatis Berbasis STM32"
  
  Projek ini mendemonstrasikan bagaimana cara membuat program pada STM32 NUCLEO-F466RE dengan fungsi menghentikan Conveyor secara otomatis ketika mendeteksi adanya halangan yang terdeteksi, Guna meningkatkan Sistem Safety pada Conveyor
 
