@@ -23,9 +23,8 @@
 ### Extension and Library
 1. C/C++ Extension Pack(di install dalam Visual Studio Code)
 2. CMake Tools (Diinstall dalam Visual Studio Code)
-3. GCC (install di dalam MSYS2 MinGW64) dengan menginput : ``` pacman -S mingw-w64-x86_64-gcc ```
-4. Make (install di dalam MSYS2 MinGW64) dengan menginput : ``` pacman -S make ```
-5. cmocka (install di dalam MSYS2 MinGW64) dengan menginput : ``` pacman -S mingw-w64-x86_64-cmocka ```
+3. Make (install di dalam MSYS2 MinGW64) dengan menginput : ``` pacman -S make ```
+4. Unity dengan input ```git clone https://github.com/ThrowTheSwitch/Unity.git```
 
 # Tutorial melakukan Testing 
 ### 1. Clone semua isi repository dengan unduh atau
