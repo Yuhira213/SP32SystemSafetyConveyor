@@ -1,0 +1,6 @@
+cd "/e/For Work/STM32 Project/Conveyor_Safety/Unit Testing 2"
+./relay_buzzer_test.exe
+
+
+cd "/c/STM32 Project/Conveyor_Safety/Unit Testing 2"
+./relay_buzzer_test.exe

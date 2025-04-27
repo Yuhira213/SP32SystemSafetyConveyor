@@ -1,0 +1,6 @@
+Pneumatic Piston Activated (True)
+Pneumatic Piston Deactivated (False)
+Pneumatic Piston Activated (True)
+Pneumatic Piston Deactivated (False)
+Pneumatic Piston Activated (True)
+test_pneumatic_piston.c:37:test_MonitorPneumaticPiston:FAIL: Expected TRUE Was FALSE
